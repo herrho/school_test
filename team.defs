@@ -1,0 +1,18 @@
+#Fri Feb 27 10:45:22 CET 2026
+bluej.teamsettings.git.branch=
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.git.repositoryPrefix=/herrho/school_test
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.savedpwd=dmeUIIZS8zZFIhJq+axWuplipxu1kXgodumidKC4L30DJfzQzd0tW4HxppDuAQRcsEHkjAhSQ2kcQP3LxwGT6Ug5b9pWi7Ng4DaHypEXaKG7ucsDqu2UZp5fjlm42Zvx
+bluej.teamsettings.user=rho
+bluej.teamsettings.vcs=git
+bluej.teamsettings.yourEmail=none@nome.com
+bluej.teamsettings.yourName=rho
